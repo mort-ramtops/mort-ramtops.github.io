@@ -1,0 +1,55 @@
+@page "/scriptures"
+@inject HttpClient Http
+
+<h1>Holey Narratives</h1>
+
+<p>This component demonstrates that there are holes in the narrative.</p>
+
+@if (quotes == null)
+{
+    <p><em>Finding the holes in the narrative...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>text</th>
+                <th>ref</th>
+                <th>type</th>
+                <th>url</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var quote in quotes)
+            {
+                <tr>
+                    <td>@quote.text</td>
+                    <td>@quote.reference</td>
+                    <td>@quote.type</td>
+                    <td>@quote.url</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Quote[] quotes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        quotes = await Http.GetFromJsonAsync<Quote[]>("data/data.json");
+    }
+
+    public class Quote
+    {
+        public string text { get; set; }
+
+        public string reference { get; set; }
+
+        public string type { get; set; }
+
+        public string url { get; set; }
+    }
+}
