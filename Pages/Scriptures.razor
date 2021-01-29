@@ -1,6 +1,8 @@
 @page "/scriptures"
 @inject HttpClient Http
 
+<div class="slider"></div><!-- slider -->
+
 <section class="blog-area section">
 	<div class="container">
 
@@ -21,25 +23,34 @@
 
 								<div class="blog-info">
 
-									<h6 class="pre-title"><a href="#"><b>HEALTH</b></a></h6>
+									<h6 class="pre-title"><a href="@quote.url" target="blank"><b>@quote.type</b></a></h6>
 
-									<h4 class="title"><a href="#"><b>@quote.type</b></a></h4>
+									<h4 class="title"><a href="@quote.url" target="blank"><b>@quote.ref1</b></a></h4>
 
 									<p>@quote.text</p>
+									
+									@foreach (var keyword in quote.keywords)
+									{
+										<p>@keydict[keyword]</p>
+									}
 
 									<div class="avatar-area">
 										<a class="avatar" href="#"><img src="images/icons8-team-355979.jpg" alt="Profile Image"></a>
 										<div class="right-area">
-											<a class="name" href="#"><b>@quote.reference</b></a>
-											<h6 class="date" href="#">@quote.url</h6>
+											<a class="name" href="@quote.url" target="blank"><b>@quote.ref1</b></a>
+											<h6 class="date">Click to open reference</h6>
 										</div>
 									</div>
-
-									<ul class="post-footer">
+ 									<ul class="post-footer">
+										<li><a href="#"><i class="ion-heart"></i></a></li>
+										<li><a href="#"><i class="ion-chatbubble"></i></a></li>
+										<li><a href="#"><i class="ion-eye"></i></a></li>
+									</ul> 
+<!-- 									<ul class="post-footer">
 										<li><a href="#"><i class="ion-heart"></i>57</a></li>
 										<li><a href="#"><i class="ion-chatbubble"></i>6</a></li>
 										<li><a href="#"><i class="ion-eye"></i>138</a></li>
-									</ul>
+									</ul> -->
 
 								</div><!-- blog-right -->
 
@@ -56,20 +67,36 @@
 
 @code {
     private Quote[] quotes;
+	private KeyValue[] keywordlist;
+	private Dictionary<string, string> keydict = new Dictionary<string, string>();
 
     protected override async Task OnInitializedAsync()
     {
         quotes = await Http.GetFromJsonAsync<Quote[]>("data/data.json");
+		
+		foreach (var quote in quotes){
+			quote.ref1=quote.ref1.Split(':')[1].Trim();
+		}
+		
+		keywordlist = await Http.GetFromJsonAsync<KeyValue[]>("data/keywords.json");
+		
+		foreach (var keypair in keywordlist){
+			keydict.Add(keypair.key, keypair.value);
+		}
     }
 
     public class Quote
     {
         public string text { get; set; }
-
-        public string reference { get; set; }
-
+        public string ref1 { get; set; }
         public string type { get; set; }
-
         public string url { get; set; }
+		public string[] keywords { get; set; }
+    }
+	
+    public class KeyValue
+    {
+        public string key { get; set; }
+        public string value { get; set; }
     }
 }
