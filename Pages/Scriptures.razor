@@ -31,14 +31,18 @@
 									
 									@foreach (var keyword in quote.keywords)
 									{
-										<p>@keydict[keyword]</p>
+										@if(keyword != "dummy")
+										{
+											<h6 class="date">@keydict[keyword]</h6>
+										}
 									}
 
 									<div class="avatar-area">
-										<a class="avatar" href="#"><img src="images/icons8-team-355979.jpg" alt="Profile Image"></a>
+										<a class="avatar" href="@quote.url"><img src="images/icons8-team-355979.jpg" alt="Profile Image"></a>
 										<div class="right-area">
 											<a class="name" href="@quote.url" target="blank"><b>@quote.ref1</b></a>
-											<h6 class="date">Click to open reference</h6>
+											<h6 class="date">@quote.ref2</h6>
+											<h6 class="date">@quote.ref3</h6>
 										</div>
 									</div>
  									<ul class="post-footer">
@@ -76,6 +80,9 @@
 		
 		foreach (var quote in quotes){
 			quote.ref1=quote.ref1.Split(':')[1].Trim();
+			quote.ref2=quote.ref2.Split(':')[1].Trim();
+			quote.ref3=quote.ref3.Split(':')[1].Trim();
+			if(quote.text.Length>500) quote.text=quote.text.Substring(0, 500)+"...";
 		}
 		
 		keywordlist = await Http.GetFromJsonAsync<KeyValue[]>("data/keywords.json");
@@ -88,10 +95,12 @@
     public class Quote
     {
         public string text { get; set; }
-        public string ref1 { get; set; }
         public string type { get; set; }
         public string url { get; set; }
 		public string[] keywords { get; set; }
+        public string ref1 { get; set; }
+        public string ref2 { get; set; }
+        public string ref3 { get; set; }
     }
 	
     public class KeyValue

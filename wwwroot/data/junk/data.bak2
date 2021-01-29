@@ -46,7 +46,7 @@
     "ref2": "In-book reference : Book 66, Hadith 8",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 509",
     "keywords": [
-      "preservation",
+      "dummy",
       "dummy",
       "dummy"
     ]
@@ -59,7 +59,7 @@
     "ref2": "In-book reference : Book 66, Hadith 9",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 510",
     "keywords": [
-      "preservation",
+      "dummy",
       "dummy",
       "dummy"
     ]
@@ -72,7 +72,7 @@
     "ref2": "In-book reference : Book 66, Hadith 10",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 510",
     "keywords": [
-      "preservation",
+      "dummy",
       "dummy",
       "dummy"
     ]
@@ -85,7 +85,7 @@
     "ref2": "In-book reference : Book 66, Hadith 11",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 511",
     "keywords": [
-      "preservation",
+      "dummy",
       "dummy",
       "dummy"
     ]
@@ -98,7 +98,7 @@
     "ref2": "In-book reference : Book 66, Hadith 12",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 512",
     "keywords": [
-      "preservation",
+      "dummy",
       "dummy",
       "dummy"
     ]
@@ -111,7 +111,7 @@
     "ref2": "In-book reference : Book 66, Hadith 13",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 513",
     "keywords": [
-      "preservation",
+      "dummy",
       "dummy",
       "dummy"
     ]
@@ -124,7 +124,7 @@
     "ref2": "In-book reference : Book 66, Hadith 14",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 514",
     "keywords": [
-      "preservation",
+      "dummy",
       "dummy",
       "dummy"
     ]
@@ -137,33 +137,7 @@
     "ref2": "In-book reference : Book 66, Hadith 54",
     "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 550",
     "keywords": [
-      "preservation",
       "dummy",
-      "dummy"
-    ]
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/bukhari/67/70",
-    "text": "Narrated `Aisha: that the Prophet (ﷺ) married her when she was six years old and he consummated his marriage when she was nine years old. Hisham said: I have been informed that `Aisha remained with the Prophet (ﷺ) for nine years (i.e. till his death).",
-    "ref1": "Reference : Sahih al-Bukhari 5134",
-    "ref2": "In-book reference : Book 67, Hadith 70",
-    "ref3": "USC-MSA web (English) reference : Vol. 7, Book 62, Hadith 65",
-    "keywords": [
-      "pedophilia",
-      "dummy",
-      "dummy"
-    ]
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/abudawud:4449",
-    "text": "Narrated Abdullah Ibn Umar: A group of Jews came and invited the Messenger of Allah (ﷺ) to Quff. So he visited them in their school. They said: AbulQasim, one of our men has committed fornication with a woman; so pronounce judgment upon them. They placed a cushion for the Messenger of Allah (ﷺ) who sat on it and said: Bring the Torah. It was then brought. He then withdrew the cushion from beneath him and placed the Torah on it saying: I believed in thee and in Him Who revealed thee. He then said: Bring me one who is learned among you. Then a young man was brought. The transmitter then mentioned the rest of the tradition of stoning similar to the one transmitted by Malik from Nafi'(No. 4431).",
-    "ref1": "Reference : Sunan Abi Dawud 4449",
-    "ref2": "In-book reference : Book 40, Hadith 99",
-    "ref3": "English translation : Book 39, Hadith 4434",
-    "keywords": [
-      "bible",
       "dummy",
       "dummy"
     ]
