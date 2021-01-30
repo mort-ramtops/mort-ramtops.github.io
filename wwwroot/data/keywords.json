@@ -22,5 +22,25 @@
 	{
 		"key":"bible",
 		"value":"Was the Bible corrupted?"
+	},
+	{
+		"key":"rape",
+		"value":"Non-consensual sex in Islam"
+	},
+	{
+		"key":"slavetrade",
+		"value":"Did Mohammed sell slaves?"
+	},
+	{
+		"key":"slavery",
+		"value":"Was slavery banned by Mohammed?"
+	},
+	{
+		"key":"art",
+		"value":"Art in Islam"
+	},
+	{
+		"key":"pre-islam",
+		"value":"What did pre-Islamic people do?"
 	}
 ]
