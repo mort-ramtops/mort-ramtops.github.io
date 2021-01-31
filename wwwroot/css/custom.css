@@ -20,3 +20,5 @@
 .logo-footer img{ height: 80px; width: auto; }
 
 .blog-info .pre-title a b {text-transform: uppercase;}
+
+.my-title-block h3 {text-transform: uppercase; padding-top: 30px;}

@@ -7,15 +7,44 @@
 	<div class="container">
 
 		<div class="row">
+			<div class="col-lg-12 col-md-12">
+				<div class="card h-100">
+					<div class="single-post post-style-2 post-style-3">
+						<div class="blog-info my-title-block">
+							<form>
+								@if (keywordlist == null)
+								{
+									<p><em>There is a problem. This site may have fallen through one of the many holes in the narrative.</em></p>
+								}
+								else
+								{
+									<select class="custom-select" @bind="@selectedCategory">
+										@foreach (var keypair in keywordlist)
+										{
+											<option value="@keypair.key">@keypair.value</option>
+										}
+									</select>
+									<h3>@keydict[selectedCategory]</h3>
+								}
+							</form>
+						</div><!-- blog-right -->
+					</div><!-- single-post extra-blog -->
+				</div><!-- card -->
+			</div><!-- col-sm-8 col-sm-offset-2 -->
+		</div><!-- row -->
+
+		<div class="row">
 
 			@if (quotes == null)
 			{
-				<p><em>Finding the holes in the narrative...</em></p>
+				<p><em>This website may have fallen through one of the holes in the narrative.</em></p>
 			}
 			else
 			{
 				@foreach (var quote in quotes)
 				{
+					@if(selectedCategory == "dummy" || KeyMatch(quote, selectedCategory))
+					{
 					<div class="col-lg-4 col-md-6">
 						<div class="card h-100">
 
@@ -62,6 +91,7 @@
 
 						</div><!-- card -->
 					</div><!-- col-lg-4 col-md-6 -->
+					}
 				}
 			}
 
@@ -108,4 +138,25 @@
         public string key { get; set; }
         public string value { get; set; }
     }
+	
+    string selectedCategory = "dummy";
+	
+	public bool KeyMatch(Quote quote, string selcat)
+	{
+		foreach(var key in quote.keywords)
+		{
+			if(key==selcat) return true;
+		}
+		return false;
+	}
+
+    /*string selectedCategory
+    {
+        get => selectedCategory;
+        set
+        {
+            selectedCategory = value;
+
+        }
+    }*/
 }
