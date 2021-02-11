@@ -10,8 +10,7 @@
       "dummy",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -24,8 +23,7 @@
       "apostasy",
       "peace",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -38,8 +36,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -52,8 +49,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -66,8 +62,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -80,8 +75,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -94,8 +88,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -108,8 +101,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -122,8 +114,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -136,8 +127,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -150,8 +140,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -164,8 +153,7 @@
       "pedophilia",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -178,8 +166,7 @@
       "bible",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -192,8 +179,7 @@
       "slavetrade",
       "slavery",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -206,8 +192,7 @@
       "slavery",
       "rape",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -220,8 +205,7 @@
       "art",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -234,8 +218,7 @@
       "pre-islam",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -248,8 +231,7 @@
       "slavetrade",
       "slavery",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -262,8 +244,7 @@
       "peace",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -276,8 +257,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -290,8 +270,7 @@
       "preservation",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -304,8 +283,7 @@
       "peace",
       "pre-islam",
       "respect-for-religion"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -318,8 +296,7 @@
       "science",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -332,8 +309,7 @@
       "feminism",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -346,8 +322,7 @@
       "feminism",
       "cultleader",
       "dummy"
-    ],
-    "highlight": false
+    ]
   },
   {
     "type": "hadith",
@@ -360,8 +335,7 @@
       "feminism",
       "cultleader",
       "dummy"
-    ],
-    "highlight": true
+    ]
   },
   {
     "type": "hadith",
@@ -374,7 +348,6 @@
       "peace",
       "dummy",
       "dummy"
-    ],
-    "highlight": true
+    ]
   }
 ]
