@@ -15,9 +15,7 @@ echo reference downloaded
 
 keywords="\"keywords\":[\"dummy\", \"dummy\", \"dummy\"]"
 
-highlight="\"highlight\":false"
-
-compilation="{\"type\":\"hadith\", \"url\":\"$address\", \"text\":\"$hadithescaped\", $reference $keywords , $highlight}"
+compilation="{\"type\":\"hadith\", \"url\":\"$address\", \"text\":\"$hadithescaped\", $reference $keywords}"
 #echo $compilation
 
 echo $compilation | jq '.'

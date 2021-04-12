@@ -1,7 +1,7 @@
 [
   {
     "type": "hadith",
-    "url": "https://sunnah.com/bukhari/72/45",
+    "url": "https://sunnah.com/bukhari:5518",
     "text": "Narrated Zahdam: We were in the company of Abu Musa Al-Ash`ari and there were friendly relations between us and this tribe of Jarm. Abu Musa was presented with a dish containing chicken. Among the people there was sitting a red-faced man who did not come near the food. Abu Musa said (to him), \"Come on (and eat), for I have seen Allah's Messenger (ﷺ) eating of it (i.e. chicken).\" He said, \"I have seen it eating something (dirty) and since then I have disliked it, and have taken an oath that I shall not eat it ' Abu Musa said, \"Come on, I will tell you (or narrate to you). Once I went to Allah s Apostle with a group of Al-Ash`ariyin, and met him while he was angry, distributing some camels of rak`at. We asked for mounts but he took an oath that he would not give us any mounts, and added, 'I have nothing to mount you on' In the meantime some camels of booty were brought to Allah's Messenger (ﷺ) and he asked twice, 'Where are Al-Ash`ariyin?\" So he gave us five white camels with big humps. We stayed for a short while (after we had covered a little distance), and then I said to my companions, \"Allah's Messenger (ﷺ) has forgotten his oath. By Allah, if we do not remind Allah's Messenger (ﷺ) of his oath, we will never be successful.\" So we returned to the Prophet (ﷺ) and said, \"O Allah's Messenger (ﷺ)! We asked you for mounts, but you took an oath that you would not give us any mounts; we think that you have forgotten your oath.' He said, 'It is Allah Who has given you mounts. By Allah, and Allah willing, if I take an oath and later find something else better than that. then I do what is better and expiate my oath.' \"",
     "ref1": "Reference : Sahih al-Bukhari 5518",
     "ref2": "In-book reference : Book 72, Hadith 45",
@@ -10,7 +10,8 @@
       "dummy",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -23,7 +24,8 @@
       "apostasy",
       "peace",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -36,7 +38,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -49,7 +52,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -62,7 +66,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -75,7 +80,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -88,7 +94,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -101,7 +108,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -114,7 +122,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -127,7 +136,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -140,7 +150,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -153,7 +164,8 @@
       "pedophilia",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -166,7 +178,8 @@
       "bible",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -179,7 +192,8 @@
       "slavetrade",
       "slavery",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -192,7 +206,8 @@
       "slavery",
       "rape",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -205,7 +220,8 @@
       "art",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -218,7 +234,8 @@
       "pre-islam",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -231,7 +248,8 @@
       "slavetrade",
       "slavery",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -244,7 +262,8 @@
       "peace",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -257,7 +276,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -270,7 +290,8 @@
       "preservation",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -283,7 +304,8 @@
       "peace",
       "pre-islam",
       "respect-for-religion"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -296,7 +318,8 @@
       "science",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -309,7 +332,8 @@
       "feminism",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -322,7 +346,8 @@
       "feminism",
       "cultleader",
       "dummy"
-    ]
+    ],
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -335,7 +360,8 @@
       "feminism",
       "cultleader",
       "dummy"
-    ]
+    ],
+    "highlight": true
   },
   {
     "type": "hadith",
@@ -348,6 +374,35 @@
       "peace",
       "dummy",
       "dummy"
-    ]
+    ],
+    "highlight": true
+  },
+  {
+    "type": "hadith",
+    "url": "https://sunnah.com/bukhari:2659",
+    "text": "Narrated `Uqba bin Al-Harith: That he had married Um Yahya bint Abu Ihab. He said. \"A black slave-lady came and said, 'I suckled you both.' I then mentioned that to the Prophet (ﷺ) who turned his face aside.\" `Uqba further said, \"I went to the other side and told the Prophet (ﷺ) about it. He said, 'How can you (keep her as your wife) when the lady has said that she suckled both of you (i.e. you and your wife?)\" So, the Prophet (ﷺ) ordered him to divorce her.",
+    "ref1": "Reference : Sahih al-Bukhari 2659",
+    "ref2": "In-book reference : Book 52, Hadith 23",
+    "ref3": "USC-MSA web (English) reference : Vol. 3, Book 48, Hadith 827",
+    "keywords": [
+      "dummy",
+      "dummy",
+      "dummy"
+    ],
+    "highlight": false
+  },
+  {
+    "type": "hadith",
+    "url": "https://sunnah.com/bukhari:2658",
+    "text": "Narrated Abu Sa`id Al-Khudri: The Prophet (ﷺ) said, \"Isn't the witness of a woman equal to half of that of a man?\" The women said, \"Yes.\" He said, \"This is because of the deficiency of a woman's mind.\"",
+    "ref1": "Reference : Sahih al-Bukhari 2658",
+    "ref2": "In-book reference : Book 52, Hadith 22",
+    "ref3": "USC-MSA web (English) reference : Vol. 3, Book 48, Hadith 826",
+    "keywords": [
+      "feminism",
+      "dummy",
+      "dummy"
+    ],
+    "highlight": true
   }
 ]
