@@ -651,7 +651,7 @@
     "ref2": "In-book reference : Book 61, Hadith 40",
     "ref3": "USC-MSA web (English) reference : Vol. 4, Book 56, Hadith 731",
     "keywords": [
-      "tolerance",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -665,7 +665,7 @@
     "ref2": "In-book reference : Book 87, Hadith 42",
     "ref3": "USC-MSA web (English) reference : Vol. 9, Book 83, Hadith 40",
     "keywords": [
-      "slavery",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -679,7 +679,7 @@
     "ref2": "In-book reference : Book 87, Hadith 44",
     "ref3": "USC-MSA web (English) reference : Vol. 9, Book 83, Hadith 42",
     "keywords": [
-      "slavery",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -693,8 +693,8 @@
     "ref2": "In-book reference : Book 16, Hadith 29",
     "ref3": "English translation : Vol. 3, Book 14, Hadith 1413",
     "keywords": [
-      "peace",
-      "tolerance",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -707,23 +707,9 @@
     "ref2": "In-book reference : Book 68, Hadith 5",
     "ref3": "USC-MSA web (English) reference : Vol. 7, Book 63, Hadith 182",
     "keywords": [
-      "cultleader",
+      "dummy",
       "dummy",
       "dummy"
-    ],
-    "highlight": false
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/bukhari:5057",
-    "text": "Narrated `Ali: I heard the Prophet (ﷺ) saying, \"In the last days (of the world) there will appear young people with foolish thoughts and ideas. They will give good talks, but they will go out of Islam as an arrow goes out of its game, their faith will not exceed their throats. So, wherever you find them, kill them, for there will be a reward for their killers on the Day of Resurrection.\"",
-    "ref1": "Reference : Sahih al-Bukhari 5057",
-    "ref2": "In-book reference : Book 66, Hadith 82",
-    "ref3": "USC-MSA web (English) reference : Vol. 6, Book 61, Hadith 577",
-    "keywords": [
-      "peace",
-      "apostasy",
-      "tolerance"
     ],
     "highlight": false
   }
