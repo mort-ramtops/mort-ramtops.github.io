@@ -3,23 +3,34 @@
 <header>
 	<div class="container-fluid position-relative no-side-padding">
 
-		<a href="#" class="logo"><img src="images/hn.png" alt="Logo Image"></a>
+		<a href="/" class="logo"><img src="images/hn.png" alt="Logo Image"></a>
 
-		<div class="menu-nav-icon" data-nav-menu="#main-menu"><i class="ion-navicon"></i></div>
+		<div class="menu-nav-icon" data-nav-menu="#main-menu" @onclick="ToggleMenu"><i class="ion-navicon"></i></div>
 
-		<ul class="main-menu visible-on-click" id="main-menu">
+		<ul class="main-menu visible-on-click @visibilityString" id="main-menu">
 			<li><NavLink class="nav-link" href="">Home</NavLink></li>
-			<li><NavLink class="nav-link" href="counter">Counter</NavLink></li>
 			<li><NavLink class="nav-link" href="scriptures">Scriptures</NavLink></li>
 		</ul><!-- main-menu -->
 
-		<div class="src-area">
+<!-- 		<div class="src-area">
 			<form>
 				<button class="src-btn" type="submit"><i class="ion-ios-search-strong"></i></button>
 				<input class="src-input" type="text" placeholder="Type of search">
 			</form>
-		</div>
+		</div> -->
 
 	</div><!-- conatiner -->
 </header>
 
+@code {
+	bool menuVisible = false;
+	string visibilityString = "";
+    private void ToggleMenu(MouseEventArgs e)
+    {
+		menuVisible = !menuVisible;
+		if(menuVisible) 
+			visibilityString = "visible"; 
+		else 
+			visibilityString="";
+    }
+}
