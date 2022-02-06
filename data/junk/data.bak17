@@ -567,7 +567,7 @@
     "ref2": "In-book reference : Book 58, Hadith 27",
     "ref3": "USC-MSA web (English) reference : Vol. 4, Book 53, Hadith 409",
     "keywords": [
-      "peace",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -581,8 +581,8 @@
     "ref2": "In-book reference : Book 5, Hadith 36",
     "ref3": "USC-MSA web (English) reference : Vol. 1, Book 5, Hadith 282",
     "keywords": [
-      "feminism",
-      "cultleader",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -595,8 +595,8 @@
     "ref2": "In-book reference : Book 5, Hadith 21",
     "ref3": "USC-MSA web (English) reference : Vol. 1, Book 5, Hadith 268",
     "keywords": [
-      "feminism",
-      "cultleader",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -637,7 +637,7 @@
     "ref2": "In-book reference : Book 61, Hadith 26",
     "ref3": "USC-MSA web (English) reference : Vol. 4, Book 56, Hadith 719",
     "keywords": [
-      "peace",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -735,11 +735,11 @@
     "ref2": "In-book reference : Book 17, Hadith 41",
     "ref3": "USC-MSA web (English) reference : Book 8, Hadith 3432",
     "keywords": [
-      "slavery",
-      "feminism",
-      "rape"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
-    "highlight": true
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -749,7 +749,7 @@
     "ref2": "In-book reference : Book 25, Hadith 91",
     "ref3": "English translation : Vol. 1, Book 25, Hadith 3177",
     "keywords": [
-      "peace",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -763,11 +763,11 @@
     "ref2": "In-book reference : Book 36, Hadith 21",
     "ref3": "English translation : Vol. 4, Book 36, Hadith 3411",
     "keywords": [
-      "slavery",
-      "feminism",
-      "cultleader"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
-    "highlight": true
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -777,7 +777,7 @@
     "ref2": "In-book reference : Book 67, Hadith 56",
     "ref3": "USC-MSA web (English) reference : Vol. 7, Book 62, Hadith 53",
     "keywords": [
-      "cultleader",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -791,9 +791,9 @@
     "ref2": "In-book reference : Book 67, Hadith 61",
     "ref3": "USC-MSA web (English) reference : Vol. 7, Book 62, Hadith 57",
     "keywords": [
-      "pedophilia",
-      "feminism",
-      "cultleader"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
     "highlight": false
   },
@@ -805,8 +805,8 @@
     "ref2": "In-book reference : Book 86, Hadith 68",
     "ref3": "USC-MSA web (English) reference : Vol. 8, Book 82, Hadith 829",
     "keywords": [
-      "peace",
-      "honor",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -819,7 +819,7 @@
     "ref2": "In-book reference : Book 12, Hadith 16",
     "ref3": "English translation : Book 11, Hadith 2056",
     "keywords": [
-      "weird",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -833,7 +833,7 @@
     "ref2": "In-book reference : Book 64, Hadith 146",
     "ref3": "USC-MSA web (English) reference : Vol. 5, Book 59, Hadith 428",
     "keywords": [
-      "weird",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -847,8 +847,8 @@
     "ref2": "In-book reference : Book 15, Hadith 347",
     "ref3": "USC-MSA web (English) reference : Book 7, Hadith 2982",
     "keywords": [
-      "weird",
-      "science",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -861,11 +861,11 @@
     "ref2": "In-book reference : Book 39, Hadith 16",
     "ref3": "USC-MSA web (English) reference : Book 26, Hadith 5389",
     "keywords": [
-      "tolerance",
-      "peace",
+      "dummy",
+      "dummy",
       "dummy"
     ],
-    "highlight": true
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -875,9 +875,9 @@
     "ref2": "In-book reference : Book 20, Hadith 9",
     "ref3": "English translation : Vol. 3, Book 20, Hadith 2541",
     "keywords": [
-      "peace",
-      "tolerance",
-      "slavery"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
     "highlight": false
   },
@@ -889,9 +889,9 @@
     "ref2": "In-book reference : Book 15, Hadith 195",
     "ref3": "English translation : Book 14, Hadith 2665",
     "keywords": [
-      "peace",
-      "tolerance",
-      "slavery"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
     "highlight": false
   },
@@ -903,11 +903,11 @@
     "ref2": "In-book reference : Book 21, Hadith 23",
     "ref3": "English translation : Vol. 3, Book 19, Hadith 1564",
     "keywords": [
-      "rape",
-      "slavery",
-      "feminism"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
-    "highlight": true
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -917,9 +917,9 @@
     "ref2": "In-book reference : Book 17, Hadith 43",
     "ref3": "USC-MSA web (English) reference : Book 8, Hadith 3433",
     "keywords": [
-      "rape",
-      "slavery",
-      "feminism"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
     "highlight": false
   },
@@ -931,11 +931,11 @@
     "ref2": "In-book reference : Book 50, Hadith 68",
     "ref3": "USC-MSA web (English) reference : Book 37, Hadith 6676",
     "keywords": [
-      "peace",
-      "honor",
-      "slavery"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
-    "highlight": true
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -945,7 +945,7 @@
     "ref2": "In-book reference : Book 67, Hadith 163",
     "ref3": "USC-MSA web (English) reference : Vol. 7, Book 62, Hadith 157",
     "keywords": [
-      "cultleader",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -959,8 +959,8 @@
     "ref2": "In-book reference : Book 9, Hadith 142",
     "ref3": "English translation : Vol. 3, Book 9, Hadith 1986",
     "keywords": [
-      "feminism",
-      "peace",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -973,8 +973,8 @@
     "ref2": "In-book reference : Book 24, Hadith 87",
     "ref3": "English translation : Vol. 4, Book 24, Hadith 2839",
     "keywords": [
-      "peace",
-      "tolerance",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false

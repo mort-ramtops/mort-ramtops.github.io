@@ -567,7 +567,7 @@
     "ref2": "In-book reference : Book 58, Hadith 27",
     "ref3": "USC-MSA web (English) reference : Vol. 4, Book 53, Hadith 409",
     "keywords": [
-      "peace",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -581,8 +581,8 @@
     "ref2": "In-book reference : Book 5, Hadith 36",
     "ref3": "USC-MSA web (English) reference : Vol. 1, Book 5, Hadith 282",
     "keywords": [
-      "feminism",
-      "cultleader",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -595,8 +595,8 @@
     "ref2": "In-book reference : Book 5, Hadith 21",
     "ref3": "USC-MSA web (English) reference : Vol. 1, Book 5, Hadith 268",
     "keywords": [
-      "feminism",
-      "cultleader",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -637,7 +637,7 @@
     "ref2": "In-book reference : Book 61, Hadith 26",
     "ref3": "USC-MSA web (English) reference : Vol. 4, Book 56, Hadith 719",
     "keywords": [
-      "peace",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -735,11 +735,11 @@
     "ref2": "In-book reference : Book 17, Hadith 41",
     "ref3": "USC-MSA web (English) reference : Book 8, Hadith 3432",
     "keywords": [
-      "slavery",
-      "feminism",
-      "rape"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
-    "highlight": true
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -749,7 +749,7 @@
     "ref2": "In-book reference : Book 25, Hadith 91",
     "ref3": "English translation : Vol. 1, Book 25, Hadith 3177",
     "keywords": [
-      "peace",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -763,11 +763,11 @@
     "ref2": "In-book reference : Book 36, Hadith 21",
     "ref3": "English translation : Vol. 4, Book 36, Hadith 3411",
     "keywords": [
-      "slavery",
-      "feminism",
-      "cultleader"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
-    "highlight": true
+    "highlight": false
   },
   {
     "type": "hadith",
@@ -777,7 +777,7 @@
     "ref2": "In-book reference : Book 67, Hadith 56",
     "ref3": "USC-MSA web (English) reference : Vol. 7, Book 62, Hadith 53",
     "keywords": [
-      "cultleader",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -791,9 +791,9 @@
     "ref2": "In-book reference : Book 67, Hadith 61",
     "ref3": "USC-MSA web (English) reference : Vol. 7, Book 62, Hadith 57",
     "keywords": [
-      "pedophilia",
-      "feminism",
-      "cultleader"
+      "dummy",
+      "dummy",
+      "dummy"
     ],
     "highlight": false
   },
@@ -805,8 +805,8 @@
     "ref2": "In-book reference : Book 86, Hadith 68",
     "ref3": "USC-MSA web (English) reference : Vol. 8, Book 82, Hadith 829",
     "keywords": [
-      "peace",
-      "honor",
+      "dummy",
+      "dummy",
       "dummy"
     ],
     "highlight": false
@@ -819,7 +819,7 @@
     "ref2": "In-book reference : Book 12, Hadith 16",
     "ref3": "English translation : Book 11, Hadith 2056",
     "keywords": [
-      "weird",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -833,7 +833,7 @@
     "ref2": "In-book reference : Book 64, Hadith 146",
     "ref3": "USC-MSA web (English) reference : Vol. 5, Book 59, Hadith 428",
     "keywords": [
-      "weird",
+      "dummy",
       "dummy",
       "dummy"
     ],
@@ -847,134 +847,8 @@
     "ref2": "In-book reference : Book 15, Hadith 347",
     "ref3": "USC-MSA web (English) reference : Book 7, Hadith 2982",
     "keywords": [
-      "weird",
-      "science",
-      "dummy"
-    ],
-    "highlight": false
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/muslim:2167a",
-    "text": "Abu Huraira reported Allah's Messenger (ﷺ) as saying: Do not greet the Jews and the Christians before they greet you and when you meet any one of them on the roads force him to go to the narrowest part of it.",
-    "ref1": "Reference : Sahih Muslim 2167a",
-    "ref2": "In-book reference : Book 39, Hadith 16",
-    "ref3": "USC-MSA web (English) reference : Book 26, Hadith 5389",
-    "keywords": [
-      "tolerance",
-      "peace",
-      "dummy"
-    ],
-    "highlight": true
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/ibnmajah:2541",
-    "text": "It was narrated that 'Abdul-Malik bin `Umair said: “I heard 'Atiyyah Al-Quradhi say: 'We were presented to the Messenger of Allah (ﷺ) on the Day of Quraidhah. Those whose pubic hair had grown were killed, and those whose pubic hair had not yet grown were let go. I was one of those whose pubic hair had not yet grown, so I was let go.”",
-    "ref1": "Reference : Sunan Ibn Majah 2541",
-    "ref2": "In-book reference : Book 20, Hadith 9",
-    "ref3": "English translation : Vol. 3, Book 20, Hadith 2541",
-    "keywords": [
-      "peace",
-      "tolerance",
-      "slavery"
-    ],
-    "highlight": false
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/abudawud:2671",
-    "text": "Narrated Aisha, Ummul Mu'minin: No woman of Banu Qurayzah was killed except one. She was with me, talking and laughing on her back and belly (extremely), while the Messenger of Allah (ﷺ) was killing her people with the swords. Suddenly a man called her name: Where is so-and-so? She said: I I asked: What is the matter with you? She said: I did a new act. She said: The man took her and beheaded her. She said: I will not forget that she was laughing extremely although she knew that she would be killed.",
-    "ref1": "Reference : Sunan Abi Dawud 2671",
-    "ref2": "In-book reference : Book 15, Hadith 195",
-    "ref3": "English translation : Book 14, Hadith 2665",
-    "keywords": [
-      "peace",
-      "tolerance",
-      "slavery"
-    ],
-    "highlight": false
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/tirmidhi:1564",
-    "text": "Narrated Umm Habibah bint 'Irbad bin Sariyah: From her father who told her that the Messenger of Allah (ﷺ) prohibited intercourse with female prisoners, until they deliver what is in their wombs.\" [Abu 'Eisa said:] There is something on this topic from Ruwaifi' bin Thabit, and the Hadith of 'Irbad is a Gharib Hadith. This is acted upon according to the people of knowledge. Al-Awza'i said: \"When a man purchases a slave girl from the captives and she is pregnant, then it has been related from 'Umar bin Al-Khattab that he said: 'Do not have intercourse with the pregnant women until she gives birth.'\" Al-Awza'i said: \"As for the free women, then the Sunnah about them has passed, in that the 'Iddah is observed.\" All of this was narrated to me by 'Ali bin Khushram who said: \" 'Eisa bin Yunus narrated to us from Al-Awza'i.\"",
-    "ref1": "Reference : Jami` at-Tirmidhi 1564",
-    "ref2": "In-book reference : Book 21, Hadith 23",
-    "ref3": "English translation : Vol. 3, Book 19, Hadith 1564",
-    "keywords": [
-      "rape",
-      "slavery",
-      "feminism"
-    ],
-    "highlight": true
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/muslim:1456d",
-    "text": "This hadith has been reported on the authority of AbuSa'id (al-Khudri) (Allah be pleased with him) through another chain of transmitters and the words are: They took captives (women) on the day of Autas who had their husbands. They were afraid (to have sexual intercourse with them) when this verse was revealed:\" And women already married except those whom you right hands posses\" (iv. 24)",
-    "ref1": "Reference : Sahih Muslim 1456d",
-    "ref2": "In-book reference : Book 17, Hadith 43",
-    "ref3": "USC-MSA web (English) reference : Book 8, Hadith 3433",
-    "keywords": [
-      "rape",
-      "slavery",
-      "feminism"
-    ],
-    "highlight": false
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/muslim:2771",
-    "text": "Anas reported that a person was charged with fornication with the slavegirl of Allah's Messenger (ﷺ). Thereupon Allah's Messenger (ﷺ) said to 'Ali: Go and strike his neck. 'Ali came to him and he found him in a well making his body cool. 'Ali said to him: Come out, and as he took hold of his hand and brought him out, he found that his sexual organ had been cut. Hadrat 'Ali refrained from striking his neck. He came to Allah's Apostle (ﷺ) and said: Allah's Messenger, he has not even the sexual organ with him.",
-    "ref1": "Reference : Sahih Muslim 2771",
-    "ref2": "In-book reference : Book 50, Hadith 68",
-    "ref3": "USC-MSA web (English) reference : Book 37, Hadith 6676",
-    "keywords": [
-      "peace",
-      "honor",
-      "slavery"
-    ],
-    "highlight": true
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/bukhari:5230",
-    "text": "Narrated Al-Miswar bin Makhrama: I heard Allah's Messenger (ﷺ) who was on the pulpit, saying, \"Banu Hisham bin Al-Mughira have requested me to allow them to marry their daughter to `Ali bin Abu Talib, but I don't give permission, and will not give permission unless `Ali bin Abi Talib divorces my daughter in order to marry their daughter, because Fatima is a part of my body, and I hate what she hates to see, and what hurts her, hurts me.\"",
-    "ref1": "Reference : Sahih al-Bukhari 5230",
-    "ref2": "In-book reference : Book 67, Hadith 163",
-    "ref3": "USC-MSA web (English) reference : Vol. 7, Book 62, Hadith 157",
-    "keywords": [
-      "cultleader",
       "dummy",
-      "dummy"
-    ],
-    "highlight": false
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/ibnmajah:1986",
-    "text": "It was narrated that Ash'ath bin Qais said: \"I was a guest (at the home) of 'Umar one night, and in the middle of the night he went and hit his wife, and I separated them. When he went to bed he said to me: 'O Ash'ath, learn from me something that I heard from the Messenger of Allah\" A man should not be asked why he beats his wife, and do not go to sleep until you have prayed the Witr.\"' And I forgot the third thing.\"",
-    "ref1": "Reference : Sunan Ibn Majah 1986",
-    "ref2": "In-book reference : Book 9, Hadith 142",
-    "ref3": "English translation : Vol. 3, Book 9, Hadith 1986",
-    "keywords": [
-      "feminism",
-      "peace",
-      "dummy"
-    ],
-    "highlight": false
-  },
-  {
-    "type": "hadith",
-    "url": "https://sunnah.com/ibnmajah:2839",
-    "text": "It was narrated that Ibn ‘Abbas said: “Sa’b bin Jaththamah said: ‘The Prophet (ﷺ) was asked about the polytheists who are attacked at night, and their women and children are killed.’ He said: ‘They are from among them.’”",
-    "ref1": "Reference : Sunan Ibn Majah 2839",
-    "ref2": "In-book reference : Book 24, Hadith 87",
-    "ref3": "English translation : Vol. 4, Book 24, Hadith 2839",
-    "keywords": [
-      "peace",
-      "tolerance",
+      "dummy",
       "dummy"
     ],
     "highlight": false
