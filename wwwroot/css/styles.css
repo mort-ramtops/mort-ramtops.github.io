@@ -186,6 +186,8 @@ header .src-area .src-btn{ position: absolute; top: 0; bottom: 0; left: 0; width
 
 .blog-area .post-style-2{ padding-bottom: 0; text-align: left; }
 
+.blog-area .post-style-2x{ padding-bottom: 0; }
+
 .blog-area .post-style-2 .title{ padding: 15px 0px 20px; }
 
 .post-style-2 .avatar-area{ padding: 25px 0 15px; position: relative; }
