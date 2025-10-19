@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#script to list some info about the hadith json
+
+final=$(cat data.json | jq ". | length")
+
+echo "Number of hadiths in data.json: $final"
