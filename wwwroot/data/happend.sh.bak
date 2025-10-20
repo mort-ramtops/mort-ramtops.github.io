@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#script to download holey hadiths from sunnah.com
+
+address=$1
+echo $address
+hadith=$(qsel $address ".hadith_narrated, .text_details")
+#echo $hadith
+echo hadith text downloaded
+hadithescaped=$(echo $hadith | sed 's/"/\\"/g')
+reference=$(qsel $address "table.hadith_reference > tr" -T "\"ref{{index|incr}}\": \"{{.|text}}\"," --limit 3)
+#reference=$(echo $reference | sed '$s/,$//')
+#echo $reference
+echo reference downloaded
+
+keywords="\"keywords\":[\"dummy\", \"dummy\", \"dummy\"]"
+
+highlight="\"highlight\":false"
+
+compilation="{\"type\":\"hadith\", \"url\":\"$address\", \"text\":\"$hadithescaped\", $reference $keywords , $highlight}"
+#echo $compilation
+
+echo $compilation | jq '.'
+
+final=$(cat data.json | jq ".+= [$compilation]")
+
+echo $final | jq '.' > data.json
